@@ -1,4 +1,4 @@
 first = "onome"
 second = "regha"
-full =f"{first} {second}"
-print (full)
+full = f"{len(first)} {2+2}"
+print(full)
